@@ -35,16 +35,16 @@ a.showMore {
 }
 
 .items {
-    border: 3px solid #222;
+    /* border: 3px solid #222; */
     text-align: center;
 }
 
 .items .item {
     display: inline-block;
     margin: 20px 20px;
-    padding: 40px 80px;
-    background-color: #222;
-    color: #fff;
+    padding: 40px 60px;
+    background-color: rgb(117, 255, 24);
+    color: rgb(245, 101, 101);
     border-radius: 5px;
 }
 
